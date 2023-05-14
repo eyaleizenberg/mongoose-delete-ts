@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/emiljanitzek/mongoose-delete-ts",
   "peerDependencies": {
-    "mongoose": "6.x"
+    "mongoose": "6.x || 7.x"
   },
   "devDependencies": {
     "@tsconfig/node18": "~1.0.1",
